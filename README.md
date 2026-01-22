@@ -1,4 +1,5 @@
 # High Frequency Analyzer (高周波スペクトルアナライザ)
+<img width="997" height="730" alt="image" src="https://github.com/user-attachments/assets/cd956f81-e68e-4b53-ad74-8a58d4cbe9b4" />
 
 可聴域を超え、最大200kHzまでの超高音域を可視化できるスペクトルアナライザ＆オーディオプレイヤーです。
 Python, PyQt6, および PortAudio (sounddevice) を使用して構築されています。
