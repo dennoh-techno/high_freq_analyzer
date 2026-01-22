@@ -14,7 +14,12 @@ Python, PyQt6, および PortAudio (sounddevice) を使用して構築されて�
 - Windows 10/11
 - 高サンプリングレート（192kHz等）に対応したオーディオインターフェース推奨
 
-## 開発環境セットアップ
+## インストール (一般ユーザー向け)
+1. GitHubの [Releases](../../releases) ページから最新の `HighFreqAnalyzer.exe` をダウンロードしてください。
+2. ダウンロードしたファイルを実行するだけで起動します（インストール不要）。
+   - 初回起動時は展開処理のため数秒かかります。
+
+## 開発環境セットアップ (開発者向け)
 1. 依存ライブラリのインストール:
    ```bash
    pip install -r requirements.txt
